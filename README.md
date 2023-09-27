@@ -1,1 +1,1 @@
-# Setting up my terminal
+# Setting up my terminal for vscode
